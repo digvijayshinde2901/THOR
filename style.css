@@ -1,0 +1,35 @@
+body{
+    background-color: lavender;
+    color: rgb(221, 11, 11);
+    margin: 100px;
+    
+}
+p{
+    font-size: 30px;
+    background-color: white;
+    color: blue;
+display:  inline-block;
+    padding: 30px 80px 50px 60px;
+    margin: 10px 20px 30px 40px ;
+}
+h6{
+    font-size: 30px;
+    color: black;
+}
+img{
+    border: solid black;
+    margin: 1px;
+    width: 400px;
+    height:400px;
+
+
+}
+h1{
+    font-size: 30px;
+margin: 10px;
+background-color: whitesmoke;
+border:solid 1px;
+display: inline-block;
+padding:10px;
+
+}
